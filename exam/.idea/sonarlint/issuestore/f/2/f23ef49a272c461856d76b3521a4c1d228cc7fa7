@@ -1,0 +1,11 @@
+
+nsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(¿ß½”şÿÿÿÿ
+psquid:S2068"V'Password' detected in this expression, review this potentially hard-coded credential.(ÇÕ·çùÿÿÿÿ
+Rsquid:S1751"6Remove this "return" statement or make it conditional.(û“ãµıÿÿÿÿ
+csquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¿ß½”şÿÿÿÿ
+bsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(­íûÿÿÿÿÿ
+csquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(¬ÿÂìøÿÿÿÿ
+Gsquid:S1481"2Remove this unused "mysqlUserName" local variable.(ƒü¬²
+Lsquid:S1481"2Remove this unused "mysqlPassword" local variable.(ÇÕ·çùÿÿÿÿ
+[squid:S1854"ARemove this useless assignment to local variable "mysqlPassword".(ÇÕ·çùÿÿÿÿ
+Vsquid:S1854"ARemove this useless assignment to local variable "mysqlUserName".(ƒü¬²
